@@ -1,0 +1,1 @@
+<view class="content"><view class="text-area"><block wx:for="{{itemList}}" wx:for-item="item" wx:for-index="index"><text class="title">{{item.name}}</text></block></view><view></view></view>

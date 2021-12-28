@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{item.name}}</text></view><button type="primary" data-event-opts="{{[['tap',[['get']]]]}}" bindtap="__e">跳转</button><view class="unipadding"><label class="_span">{{item.name}}</label><label class="_span">{{item.nick}}</label></view></view>
